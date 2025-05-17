@@ -1,0 +1,108 @@
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.exe
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.deps.json
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.runtimeconfig.json
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.pdb
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.csproj.CopyComplete
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\obj\Debug\net6.0\refint\ProgGraficaTareas.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.pdb
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.genruntimeconfig.cache
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\obj\Debug\net6.0\ref\ProgGraficaTareas.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\AtkSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\CairoSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\GdkSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\GioSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\GLibSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\GtkSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas\ProgGraficaTareas\bin\Debug\net6.0\PangoSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.AssemblyInfo.cs
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\refint\ProgGraficaTareas.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.pdb
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.exe
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.deps.json
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.runtimeconfig.json
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.pdb
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\AtkSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\CairoSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\GdkSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\GioSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\GLibSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\GtkSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\PangoSharp.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.csproj.CopyComplete
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.genruntimeconfig.cache
+C:\Users\Usuario\Documents\prografica\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ref\ProgGraficaTareas.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.exe
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.deps.json
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.runtimeconfig.json
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\ProgGraficaTareas.pdb
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\AtkSharp.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\CairoSharp.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\GdkSharp.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\GioSharp.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\GLibSharp.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\GtkSharp.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\PangoSharp.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraf.F1258380.Up2Date
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\refint\ProgGraficaTareas.dll
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.pdb
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ProgGraficaTareas.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\ProgGraficaTareas - animacionfinal 2\ProgGraficaTareas - copia\ProgGraficaTareas\obj\Debug\net6.0\ref\ProgGraficaTareas.dll
